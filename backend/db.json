@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Nicolas Ronchi Lemos",
+      "email": "nickrlemos@gmail.com.br",
+      "id": 1,
+      "a2": "10",
+      "a1": "8",
+      "a3": "9"
+    },
+    {
+      "name": "Rodrigo Gondin",
+      "a1": "9",
+      "a2": "9",
+      "a3": "10",
+      "id": 2
+    }
+  ]
+}
